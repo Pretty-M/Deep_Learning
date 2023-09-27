@@ -1,0 +1,3 @@
+MobileNet
+Deep Seperable Convolution = Deepwise Convolution + Pointwise Convolution
+深度可分离卷积 = 深度卷积 + 逐点卷积
